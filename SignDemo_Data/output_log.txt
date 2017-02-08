@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R6 (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2295 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jplai\Desktop\codefolders\4330\Temp-ChessProject\Sign\SignDemo_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.956364 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2c08 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.281398 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 820.
+Total: 1.208307 ms (FindLiveObjects: 0.166427 ms CreateObjectMapping: 0.047306 ms MarkObjects: 0.954107 ms  DeleteObjects: 0.035337 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.383854 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 6.833207 ms (FindLiveObjects: 0.070674 ms CreateObjectMapping: 0.029067 ms MarkObjects: 0.474203 ms  DeleteObjects: 6.256981 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.880582 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.564826 ms (FindLiveObjects: 0.078084 ms CreateObjectMapping: 0.027927 ms MarkObjects: 0.428607 ms  DeleteObjects: 0.029067 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.094886 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 822.
+Total: 0.842965 ms (FindLiveObjects: 0.131089 ms CreateObjectMapping: 0.042746 ms MarkObjects: 0.638921 ms  DeleteObjects: 0.028497 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.483026 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 3.253311 ms (FindLiveObjects: 0.039896 ms CreateObjectMapping: 0.024508 ms MarkObjects: 0.286688 ms  DeleteObjects: 2.901078 ms)
+
